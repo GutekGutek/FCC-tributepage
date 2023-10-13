@@ -1,0 +1,69 @@
+body {
+    font-family: Helvetica;
+    font-size: 12px;
+    background-color: lightgrey;
+}
+
+#main {}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.1rem;
+    text-align: center;
+    font-weight: 200;
+}
+
+h3 {
+    font-size: 1.6rem;
+    text-align: center;
+
+}
+
+figure {
+    background-color: #fff;
+
+}
+#image {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    /* height: auto; */
+}
+
+#img-caption {
+    text-align: center;
+    padding: 12px 0;
+}
+
+#img-div {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+#tribute-info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul {
+    /* text-align: center; */
+    max-width: 600px;
+    line-height: 1.6;
+
+}
+
+
+#quote {
+    max-width: 600px;
+    text-align: left;
+}
+#quote-content {
+    font-style: italic;
+}
